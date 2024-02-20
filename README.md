@@ -17,11 +17,14 @@ Our project leverages the power of deep learning and computer vision to detect l
 
 - **yolo_model/**: This directory contains the source code and configuration files for training the YOLO model.
 - **data/**: This directory includes datasets used for training and testing the YOLO model, including labeled images of lane markings and traffic signs.
-- **lane_detection.py**: Python script for lane detection using computer vision techniques.
-- **traffic_sign_detection.py**: Python script for traffic sign detection using the trained YOLO model.
-- **demo.ipynb**: Jupyter Notebook providing a demonstration of the model's capabilities with sample input images and videos.
+- **lane_detection/main.py**: Python script for lane detection using computer vision techniques.
+- **traffic_sign_detection/main.py**: Python script for traffic sign detection using the trained YOLO model.
+- **Project Exolanation**: Jupyter Notebook providing a demonstration of the model's capabilities with sample input images and videos.
 - **README.md**: This file providing an overview of the project, its contents, and usage instructions.
-
+- **Output** : This file contains various output which is received
+- **Testing files**: Further we have a bunch of testing files as well which you can try out
+- **Others** : Further there are other files for installation and running purposes
+  
 ## Usage
 
 To utilize the Tarzan the Wonder Car project:
